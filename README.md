@@ -15,11 +15,13 @@ TrasnferLearning using VGG-16:  Model is trained and tested directories of train
 
 
 
-Smart Glasses Application:
+**Smart Glasses Application:**
+
+
 
 https://github.com/VladPavlovich/SmartGlassesApp
 
-FastAPI for AWS (communication between the App and RaspberryPI):
+**FastAPI for AWS (communication between the App and RaspberryPI):**
 
 https://github.com/VladPavlovich/FastAPI
 
