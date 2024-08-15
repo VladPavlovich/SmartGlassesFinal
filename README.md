@@ -3,6 +3,8 @@
 R7sound.py: This python file utilized face_recognition library and can be run on the RaspberryPi. Future purposes the API url and Firebase Configs can be changed.
 
 **One-Shot Learning Models**
+
+
 Models aren't configured for Smart Glasses but can be for future works.
 
 Siamese Nueral Netork:  Trained and Tested NNs on one-shot learning to see if can be used in glasses. Code is .ipynb large and not viewable on github but can be downloaded.
