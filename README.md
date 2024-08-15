@@ -33,16 +33,20 @@ https://github.com/VladPavlovich/FastAPI
 ![Frame 15 (1)](https://github.com/user-attachments/assets/70a5dc50-d265-4f3c-b908-260201cc6e08)
 
 
-Copyright [2024] [Vlad Pavlovich]
+## License
 
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
+This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
 
-    http://www.apache.org/licenses/LICENSE-2.0
+You are free to:
 
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
+- **Share**—copy and redistribute the material in any medium or format
+- **Adapt**—remix, transform, and build upon the material
+
+Under the following terms:
+
+- **Attribution**—You must give appropriate credit, provide a link to the license, and indicate if changes were made.  
+  **Attribution should be given to:** [Vlad Pavlovich]
+- **NonCommercial**—You may not use the material for commercial purposes.
+- **No additional restrictions**—You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+
+![CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/88x31.png)
