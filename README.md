@@ -22,6 +22,7 @@ Expo Doc to Run App: https://docs.expo.dev/bare/overview/
 
 App:
 https://github.com/VladPavlovich/SmartGlassesApp
+-API branch is most updated
 
 **FastAPI for AWS (communication between the App and RaspberryPI):**
 
