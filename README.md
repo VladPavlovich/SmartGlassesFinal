@@ -16,6 +16,7 @@ TrasnferLearning using VGG-16:  Model is trained and tested directories of train
 
 
 **Smart Glasses Application:**
+https://github.com/VladPavlovich/SmartGlassesApp
 
 Application built React Native using Expo
 Expo Doc to Run App: https://docs.expo.dev/bare/overview/
@@ -36,18 +37,21 @@ https://github.com/VladPavlovich/FastAPI
 
 ## License
 
-This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
+Copyright (c) 2025 Vlad Pavlovich. All rights reserved.
 
-You are free to:
+This source code is proprietary and confidential.
 
-- **Share**—copy and redistribute the material in any medium or format
-- **Adapt**—remix, transform, and build upon the material
+You are not permitted to:
+- Use
+- Copy
+- Modify
+- Distribute
+- Compile
+- Decompile
+- Run
+- Mirror
+- Reproduce
 
-Under the following terms:
+any part of this code or its contents in any form without explicit written permission from the author.
 
-- **Attribution**—You must give appropriate credit, provide a link to the license, and indicate if changes were made.  
-  **Attribution should be given to:** [Vlad Pavlovich]
-- **NonCommercial**—You may not use the material for commercial purposes.
-- **No additional restrictions**—You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
-
-![CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/88x31.png)
+Any unauthorized use of this code is strictly prohibited and may result in legal consequences.
