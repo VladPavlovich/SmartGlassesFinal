@@ -5,7 +5,7 @@ This project presents an assistive smart glasses system designed to help individ
 
 👓 What It Does
 
-Face Identification: Uses smart glasses to recognize faces from a known contact list.
+Face Identification: Uses smart glasses to recognize faces from a known contact list. 
 
 Phone Integration: When a known face is detected, the person’s name is displayed on the user’s connected smartphone.
 
@@ -15,7 +15,7 @@ Captures the image
 
 Augments it for training
 
-Retrains the face recognition model
+Retrains the face recognition model using one-shot learning
 
 Adds the new person to the user’s contact list
 
