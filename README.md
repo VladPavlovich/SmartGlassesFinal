@@ -1,3 +1,4 @@
+
 **Smart Glasses for PWD (people with disabilities) Face Contact
 
 This project presents an assistive smart glasses system designed to help individuals with Alzheimer’s, cognitive impairments, and visual disabilities recognize people in real time.
