@@ -1,3 +1,39 @@
+**Smart Glasses for PWD (people with disabilities) Face Contact
+
+This project presents an assistive smart glasses system designed to help individuals with Alzheimer’s, cognitive impairments, and visual disabilities recognize people in real time.
+
+👓 What It Does
+
+Face Identification: Uses smart glasses to recognize faces from a known contact list.
+
+Phone Integration: When a known face is detected, the person’s name is displayed on the user’s connected smartphone.
+
+Self-Updating System: If the face is unknown, the system:
+
+Captures the image
+
+Augments it for training
+
+Retrains the face recognition model
+
+Adds the new person to the user’s contact list
+
+**Who It’s For**
+
+Individuals with Alzheimer’s or dementia
+
+People with visual impairments
+
+Anyone experiencing memory or recognition difficulties
+
+**Purpose**
+
+The system aims to improve independence and social confidence by passively assisting users in recognizing people around them — without the need for manual input or prior memory recall.
+
+
+
+
+
 **Instructions**
 
 R7sound.py: This python file utilized face_recognition library and can be run on the RaspberryPi. Future purposes the API url and Firebase Configs can be changed.
